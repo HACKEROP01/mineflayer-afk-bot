@@ -2,9 +2,9 @@
 
 
 module.exports = {
-	host: '95.217.100.57',
-    port: 225965,
-    username: 'nnkarich',
+	host: 'great.playserver.pro',
+    port: 22667,
+    username: 'BOT',
     password: '',
 	// Use mojang for yggdrasil login, microsoft for Microsoft login
 	auth: 'microsoft'
